@@ -2,10 +2,6 @@
 
 A real-time, edge-deployable computer vision pipeline that monitors multiple students in a classroom — detecting **sleeping** and **talking** behaviour — to serve as the perceptual backbone for emotionally intelligent robot teacher platforms (e.g. NAO, Pepper).
 
-> Conference paper, Department of Electrical Engineering, Indian Institute of Technology Palakkad.
-
----
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -239,7 +235,3 @@ Selected references — see the full paper for the complete list:
 5. C.-Y. Wang et al., "YOLOv9: Learning what you want to learn using programmable gradient information," *arXiv:2402.13616*, 2024.
 6. N. Wojke, A. Bewley, and D. Paulus, "Simple online and realtime tracking with a deep association metric," *Proc. IEEE ICIP*, 2017, pp. 3645–3649.
 7. M. Sandler et al., "MobileNetV2: Inverted residuals and linear bottlenecks," *Proc. IEEE CVPR*, 2018, pp. 4510–4520.
-
----
-
-*This README was generated from the project's conference paper (`Conference_Paper_P096.pdf`). Update installation and usage sections once source code/scripts are added to the repository.*
